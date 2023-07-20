@@ -1,2 +1,2 @@
 # menu-service-cafemangement-app
-first serice
+first service
